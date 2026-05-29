@@ -216,3 +216,8 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Data files
+data/*.npz
+data/*.csv
+initial_conditions/
